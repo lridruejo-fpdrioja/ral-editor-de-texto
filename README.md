@@ -3,15 +3,20 @@
 **Tarea de Desarrollo de Interfaces (DAM)**
 
 ## 🔧 Instalación y Ejecución
+Requisitos:
+- Tener instalado el entorno de ejecución de escritorio .NET 9.0
 
 ### Opción 1: Instalador ClickOnce
-- Instalación más sencilla.
 - Actualizaciones automáticas.
 
 **👉 [INSTALAR CON EL INSTALADOR GENERADO CON CLICKONCE](https://lridruejo-fpdrioja.github.io/ral-editor-de-texto/ClickOnce/RAL%20Editor%20de%20Texto.html)**
 
-### Opción 2: Instalador MSI
-**👉 [INSTALAR CON EL INSTALADOR GENERADO CON SETUP WIZARD (.MSI)](https://lridruejo-fpdrioja.github.io/ral-editor-de-texto/Setup%20Wizard/Instalador%20RAL%20Editor%20de%20Texto.msi)**
+### Opción 2: Instalador Setup Wizard
+- Instalación más sencilla.
+- ATENCIÓN! Puede que Windows Defender bloquee la instalación.
+
+**👉 [INSTALAR CON EL INSTALADOR GENERADO CON SETUP WIZARD (.MSI)](https://lridruejo-fpdrioja.github.io/ral-editor-de-texto/Setup%20Wizard/Instalador%20RAL%20Editor%20de%20Texto.msi)**  
+**👉 [USAR ESTE ENLACE PARA INSTALAR .NET 9.0 (.EXE)](https://lridruejo-fpdrioja.github.io/ral-editor-de-texto/Setup%20Wizard/setup.exe)**
 
 ## 📋 Descripción del Proyecto
 
