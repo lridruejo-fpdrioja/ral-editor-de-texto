@@ -19,6 +19,8 @@ Requisitos:
 **👉 [INSTALAR CON EL INSTALADOR GENERADO CON SETUP WIZARD (.MSI)](https://lridruejo-fpdrioja.github.io/ral-editor-de-texto/Setup%20Wizard/Instalador%20RAL%20Editor%20de%20Texto.msi)**  
 **👉 [USAR ESTE ENLACE PARA INSTALAR .NET 9.0 (.EXE)](https://lridruejo-fpdrioja.github.io/ral-editor-de-texto/Setup%20Wizard/setup.exe)**
 
+<br>
+
 ## 📋 Descripción del Proyecto
 
 Editor de texto sencillo desarrollado en C# con .NET 9.0, implementando el patrón de diseño **MVC (Modelo-Vista-Controlador)**.
