@@ -8,11 +8,12 @@ Requisitos:
 
 ### Opción 1: Instalador ClickOnce
 - Actualizaciones automáticas.
+- Instalación en remoto.
 
 **👉 [INSTALAR CON EL INSTALADOR GENERADO CON CLICKONCE](https://lridruejo-fpdrioja.github.io/ral-editor-de-texto/ClickOnce/RAL%20Editor%20de%20Texto.html)**
 
 ### Opción 2: Instalador Setup Wizard
-- Instalación más sencilla.
+- Instalador de un solo archivo.
 - ATENCIÓN! Puede que Windows Defender bloquee la instalación.
 
 **👉 [INSTALAR CON EL INSTALADOR GENERADO CON SETUP WIZARD (.MSI)](https://lridruejo-fpdrioja.github.io/ral-editor-de-texto/Setup%20Wizard/Instalador%20RAL%20Editor%20de%20Texto.msi)**  
