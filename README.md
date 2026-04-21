@@ -24,7 +24,7 @@ Requisitos:
 ## 📋 Descripción del Proyecto
 
 Editor de texto sencillo desarrollado en C# con .NET 9.0, implementando el patrón de diseño **MVC (Modelo-Vista-Controlador)**.  
-Código del proyecto: [Repositorio del proyecto](https://github.com/lridruejo-fpdrioja/dam-di-editor-texto-sencillo)
+Código del proyecto: [Repositorio con el código fuente](https://github.com/lridruejo-fpdrioja/dam-di-editor-texto-sencillo)
 
 ### 🎯 Características Principales
 - **Arquitectura MVC**: Separación clara entre lógica de negocio, interfaz de usuario y control de flujo.
